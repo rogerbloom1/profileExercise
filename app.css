@@ -1,0 +1,23 @@
+h1 {
+    color:darkred; font-size: 50px;
+}
+
+#profilePic {
+    height: 200px; width: auto;
+}
+body {
+    background-image: url("https://www.banarsidesigns.com/blog/wp-content/uploads/2016/09/springfield-the-simpsons.jpg");
+    background-size: cover;
+}
+* {
+    text-align:center
+}
+h2 {
+    font-size: 30px; color:darkred; font-weight: bold;
+}
+h3 {
+    color:blue; font-size: 24px;
+}
+p {
+    font-size: 18px; font-weight: bold;
+}
