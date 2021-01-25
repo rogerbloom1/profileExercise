@@ -1,5 +1,5 @@
 h1 {
-    color:darkred; font-size: 100px; margin-top: 30px; margin-bottom: 30px
+    color:darkred; font-size: 100px; margin-top: 30px; margin-bottom: 30px; font-variant: small-caps;
 }
 
 #profilePic {
@@ -9,10 +9,10 @@ h1 {
     text-align:center
 }
 h2 {
-    font-size: 45px; color: darkred; font-weight: bold;
+    font-size: 45px; color: darkred; font-weight:bolder; font-variant: small-caps;
 }
 h3 {
-    color: white; font-size: 24px; margin-bottom:10px
+    color: white; font-size: 24px; margin-bottom:10px; font-variant: small-caps;
 }
 .container {
     background-image: url("/Users/rogerbloom/repos/profileExercise/springfield.png");
@@ -28,4 +28,4 @@ body {
     width: 100%; 
     min-height: 100vh;
 }
-a {color: white; font-size: 18px; font-weight: bold}
+a {color: white; font-size: 18px; font-weight: bold;}
